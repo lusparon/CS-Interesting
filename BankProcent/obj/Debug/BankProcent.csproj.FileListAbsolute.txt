@@ -1,0 +1,7 @@
+C:\Users\marti\Desktop\c# ulearnme\BankProcent\bin\Debug\BankProcent.exe.config
+C:\Users\marti\Desktop\c# ulearnme\BankProcent\bin\Debug\BankProcent.exe
+C:\Users\marti\Desktop\c# ulearnme\BankProcent\bin\Debug\BankProcent.pdb
+C:\Users\marti\Desktop\c# ulearnme\BankProcent\obj\Debug\BankProcent.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\c# ulearnme\BankProcent\obj\Debug\BankProcent.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\c# ulearnme\BankProcent\obj\Debug\BankProcent.exe
+C:\Users\marti\Desktop\c# ulearnme\BankProcent\obj\Debug\BankProcent.pdb

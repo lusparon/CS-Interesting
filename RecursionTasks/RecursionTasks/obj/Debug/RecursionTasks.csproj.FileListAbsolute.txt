@@ -1,0 +1,6 @@
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTasks\bin\Debug\RecursionTasks.dll
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTasks\bin\Debug\RecursionTasks.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTasks\obj\Debug\RecursionTasks.csprojAssemblyReference.cache
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTasks\obj\Debug\RecursionTasks.csproj.CoreCompileInputs.cache
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTasks\obj\Debug\RecursionTasks.dll
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTasks\obj\Debug\RecursionTasks.pdb

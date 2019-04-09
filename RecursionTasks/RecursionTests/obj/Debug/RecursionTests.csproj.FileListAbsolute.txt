@@ -1,0 +1,11 @@
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTests\bin\Debug\RecursionTests.dll
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTests\bin\Debug\RecursionTests.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTests\bin\Debug\RecursionTasks.dll
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTests\bin\Debug\RecursionTasks.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTests\obj\Debug\RecursionTests.csprojAssemblyReference.cache
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTests\obj\Debug\RecursionTests.csproj.CoreCompileInputs.cache
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTests\obj\Debug\RecursionTests.csproj.CopyComplete
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTests\obj\Debug\RecursionTests.dll
+C:\Users\luspa\OneDrive\Рабочий стол\RecursionTasks\RecursionTests\obj\Debug\RecursionTests.pdb

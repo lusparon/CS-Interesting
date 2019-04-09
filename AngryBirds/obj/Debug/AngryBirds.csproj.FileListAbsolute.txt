@@ -1,0 +1,18 @@
+C:\Users\marti\Desktop\c# ulearnme\AngryBirds\bin\Debug\AngryBirds.exe.config
+C:\Users\marti\Desktop\c# ulearnme\AngryBirds\bin\Debug\AngryBirds.exe
+C:\Users\marti\Desktop\c# ulearnme\AngryBirds\bin\Debug\AngryBirds.pdb
+C:\Users\marti\Desktop\c# ulearnme\AngryBirds\bin\Debug\TestingRoom.dll
+C:\Users\marti\Desktop\c# ulearnme\AngryBirds\obj\Debug\AngryBirds.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\c# ulearnme\AngryBirds\obj\Debug\AngryBirds.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\c# ulearnme\AngryBirds\obj\Debug\AngryBirds.csproj.CopyComplete
+C:\Users\marti\Desktop\c# ulearnme\AngryBirds\obj\Debug\AngryBirds.exe
+C:\Users\marti\Desktop\c# ulearnme\AngryBirds\obj\Debug\AngryBirds.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\AngryBirds\bin\Debug\AngryBirds.exe.config
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\AngryBirds\bin\Debug\AngryBirds.exe
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\AngryBirds\bin\Debug\AngryBirds.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\AngryBirds\bin\Debug\TestingRoom.dll
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\AngryBirds\obj\Debug\AngryBirds.csprojAssemblyReference.cache
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\AngryBirds\obj\Debug\AngryBirds.csproj.CoreCompileInputs.cache
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\AngryBirds\obj\Debug\AngryBirds.csproj.CopyComplete
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\AngryBirds\obj\Debug\AngryBirds.exe
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\AngryBirds\obj\Debug\AngryBirds.pdb

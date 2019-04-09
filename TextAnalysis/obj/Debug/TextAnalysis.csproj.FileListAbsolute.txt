@@ -1,0 +1,13 @@
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\bin\Debug\HarryPotterText.txt
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\bin\Debug\TextAnalysis.exe.config
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\bin\Debug\TextAnalysis.exe
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\bin\Debug\TextAnalysis.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\bin\Debug\nunit.framework.dll
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\bin\Debug\nunitlite.dll
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\obj\Debug\TextAnalysis.csprojAssemblyReference.cache
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\obj\Debug\TextAnalysis.Properties.Resources.resources
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\obj\Debug\TextAnalysis.csproj.CopyComplete
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\obj\Debug\TextAnalysis.exe
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\TextAnalysis\obj\Debug\TextAnalysis.pdb

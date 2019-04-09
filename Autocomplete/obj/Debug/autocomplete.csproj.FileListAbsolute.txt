@@ -1,0 +1,15 @@
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\bin\Debug\dic\adjectives.txt
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\bin\Debug\dic\nouns.txt
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\bin\Debug\dic\verbs.txt
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\bin\Debug\Autocomplete.exe.config
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\bin\Debug\Autocomplete.exe
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\bin\Debug\Autocomplete.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\bin\Debug\nunit.framework.dll
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\obj\Debug\autocomplete.csprojAssemblyReference.cache
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\obj\Debug\Autocomplete.AutocompleteForm.resources
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\obj\Debug\Autocomplete.Properties.Resources.resources
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\obj\Debug\autocomplete.csproj.GenerateResource.cache
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\obj\Debug\autocomplete.csproj.CoreCompileInputs.cache
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\obj\Debug\autocomplete.csproj.CopyComplete
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\obj\Debug\Autocomplete.exe
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Autocomplete\obj\Debug\Autocomplete.pdb

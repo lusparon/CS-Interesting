@@ -1,0 +1,8 @@
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Image\bin\Debug\eurobot.bmp
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Image\bin\Debug\Recognizer.exe.config
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Image\bin\Debug\Recognizer.exe
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Image\bin\Debug\Recognizer.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Image\obj\Debug\Image.csprojAssemblyReference.cache
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Image\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Image\obj\Debug\Recognizer.exe
+C:\Users\luspa\OneDrive\Рабочий стол\c# ulearnme\Image\obj\Debug\Recognizer.pdb
